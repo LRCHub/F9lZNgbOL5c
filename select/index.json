@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Red:birthmark",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-01-13T19:19:34.843816Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red:birthmark",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/01_Red_birthmark_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red:birthmark",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/02_Red_birthmark_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red:birthmark",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/03_Red_birthmark_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red:birthmark",
+      "artist": "アイナ・ジ・エンド (AiNA THE END)",
+      "has_synced": true,
+      "path": "select/04_Red_birthmark_アイナ・ジ・エンド_(AiNA_THE_END).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red:birthmark",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/05_Red_birthmark_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Red:birthmark",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/06_Red_birthmark_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Red:birthmark",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_Red_birthmark_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
